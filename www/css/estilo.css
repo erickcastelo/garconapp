@@ -1,0 +1,24 @@
+.tabs .indicator {
+    background-color: #8b1014;
+}
+
+body{
+    background-color: #f2f2f2;
+}
+
+.titulo{
+    font-size: 1.4rem;
+    margin-left: 5%;
+    margin-right: auto;
+}
+
+.topo-fixo{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 2;
+}
+
+.section{
+    padding-top: 125px;
+}
